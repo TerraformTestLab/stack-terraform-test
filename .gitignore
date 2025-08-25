@@ -37,3 +37,4 @@ override.tf.json
 terraform.rc
 _stacks_generated
 stacks_migration_infra
+test-run.sh
