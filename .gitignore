@@ -40,3 +40,4 @@ stacks_migration_infra
 test-run.sh
 .DS_Store
 .vscode/
+backups
