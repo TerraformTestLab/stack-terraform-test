@@ -5,6 +5,5 @@ stacks_name        = "example-stack"
 workspace_config = {
   "simple" = {
     deployment_name = "simple-deployment"
-   
   }
 }
